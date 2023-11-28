@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @AnnaFrom19
+- 👀 I’m interested in Javascript
