@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @AnnaFrom19
-- 👀 I’m interested in Javascript
+- 👀 I’m coding on Javascript
